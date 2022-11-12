@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @DBragz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi Everyone! 👋
 
-<!---
-DBragz/DBragz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Daniel Ribeirinha-Braga! Welcome to my GitHub profile.
+
+- 👨‍💻 I'm currently working at MIT Lincoln Laboratory!
+- 💻 I have two profiles one at [DBrags](https://github.com/DBragz/DBragz) and at [DBragz-MITLL](https://github.com/DBragz/DBragz-MITLL).
+- 💡 I’m interested in systems integration architecture, software prototyping, DevSecOps, and Cybersecurity.
+- 📚 I’m currently learning about dotfile configurations.
