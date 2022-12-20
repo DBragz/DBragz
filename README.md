@@ -1,6 +1,6 @@
 ## Hi Everyone! 👋
 
-I'm Daniel Ribeirinha-Braga! Welcome to my GitHub profile.
+My name is Daniel Ribeirinha-Braga (he/him/his) and welcome to my GitHub profile!
 
 - 👨‍💻 I'm currently working at MIT Lincoln Laboratory!
 - 👤 I have two profiles one at [DBragz](https://github.com/DBragz/DBragz) and at [DBragz-MITLL](https://github.com/DBragz-MITLL).
